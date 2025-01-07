@@ -7,6 +7,7 @@ public class FactoryPatternMainClass {
 		Profession doc = professionFactory.getProfession("Doctor");
 		doc.print();
 
+		
 	}
 
 }
